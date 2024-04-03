@@ -1,6 +1,6 @@
 {
-    "name": "@ashvinmanwar/utils",
-    "version": "1.0.1",
+    "name": "@ashvin/utils",
+    "version": "2.1.1",
     "description": "An Array  Utility",
     "main": "lib/es5/index.js",
     "module": "lib/es6/index.js",
